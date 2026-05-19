@@ -2,7 +2,7 @@
 
 A complete Online Course Management System developed using **C# Windows Forms**, **SQL Server**, and **ADO.NET**.
 
----
+
 
 # Features
 
@@ -12,7 +12,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 - Logout Functionality
 - Role Based Authentication
 
----
+
 
 # User Roles
 
@@ -36,7 +36,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 - View My Courses
 - Payment System
 
----
+
 
 # CRUD Functionalities
 
@@ -58,7 +58,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 - Delete Notice
 - View Notices
 
----
+
 
 # Payment System
 - Payment Method Selection
@@ -67,7 +67,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 - Card
 - Cash
 
----
+
 
 # Technologies Used
 
@@ -77,7 +77,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 - ADO.NET
 - Visual Studio 2022/2026
 
----
+
 
 # Database Tables
 
@@ -88,7 +88,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 - Notices
 - Payments
 
----
+
 
 # Screenshots
 
@@ -125,7 +125,7 @@ A complete Online Course Management System developed using **C# Windows Forms**,
 ## Student Assignments
 - View assignments for enrolled courses.
 
----
+
 
 # Project Structure
 
@@ -140,7 +140,7 @@ WindowsFormsApp1/
 └── Session
 ```
 
----
+
 
 # Future Improvements
 
@@ -151,7 +151,7 @@ WindowsFormsApp1/
 - Dark Mode UI
 - Email Notification System
 
----
+
 
 # Author
 
@@ -160,7 +160,7 @@ Developed by **Rayhan**
 GitHub:
 https://github.com/rayhandevcs-tech
 
----
+
 
 # License
 
